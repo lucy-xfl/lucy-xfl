@@ -15,6 +15,7 @@ Let's embark on this journey of innovation together ❤️
 - 🐶 I’m looking for a 2024 internship (SDE or Testing)
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
+- 🌟 I will use Github as much as possible from Sep.2023
 
 ## {...} My Stack 💻🚀
 
