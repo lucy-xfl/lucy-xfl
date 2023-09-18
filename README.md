@@ -20,11 +20,11 @@ Let's embark on this journey of innovation together ❤️
 
 ```js
 {
-  languages: ['JavaScript', 'Java', 'Python', 'C', 'C++'],
-  backend: ['NodeJs', 'Spring Boot'],
-  frontend: ['ReactJs', 'JavaScript(ES6)', 'CSS3', 'HTML5'],
-  databases: ['MongoDB', 'Sql', 'PostgreSQL', 'MySQL', 'ElasticSearch'],
-  tools: ['Docker', 'Postman', 'MongoDB Compass'],
+  Languages: ['JavaScript', 'Java', 'Python', 'C', 'C++'],
+  Backend: ['NodeJs', 'Spring Boot'],
+  Frontend: ['ReactJs', 'JavaScript(ES6)', 'CSS3', 'HTML5'],
+  Databases: ['MongoDB', 'Sql', 'PostgreSQL', 'MySQL', 'ElasticSearch'],
+  Tools: ['Docker', 'Postman', 'MongoDB Compass'],
   Cloud: ['EC2(AWS)', 'Google Cloud', 'Altas(mongoDB Cloud)'],
   Data Analysis: ['SPSS', 'Python(NumPy, Pandas, scikit-learn, Matplotlib, TensorFlow)'], 'MATLAB']
   Other Skills: ['Unity', 'Kotlin', 'Unit testing'],
