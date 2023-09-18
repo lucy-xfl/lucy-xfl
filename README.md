@@ -1,8 +1,9 @@
 
 # Fangle Xi
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=blue&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/fangle-xi/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:xifangle99@gmail.com?subject=From%20GitHub&cc=xifangle99@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=grey&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/fangle-xi/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=grey&logo=gmail&logoColor=red)](mailto:xifangle99@gmail.com?subject=From%20GitHub&cc=xifangle99@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Leetcode Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=grey&logo=leetcode&logoColor=ffcc80)](https://www.leetcode.com/lucy_sea/)
 
 I'm Fangle (Lucy) Xi🐰, a Master student in Information Systems with a solid year of experience in full-stack development, specializing in technologies like Spring Boot and React. Alongside, I've honed my skills in Python-based ML tools and data analytics.
 
