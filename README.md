@@ -11,7 +11,7 @@ What sets me apart is my unwavering drive for continuous growth and innovation. 
 Let's embark on this journey of innovation together ❤️
 
 - 🔭 I’m currently learning MERN Stack
-- 🧊 I used Spring Boot to develop full-stack project
+- 🧊 I used Spring Boot & React to develop full-stack project
 - 🐶 I’m looking for a 2024 internship (SDE or Testing)
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
