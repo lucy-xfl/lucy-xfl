@@ -11,12 +11,14 @@ What sets me apart is my unwavering drive for continuous growth and innovation. 
 
 Let's embark on this journey of innovation together ❤️
 
-- 🔭 I’m currently learning MERN Stack
+- 🔭 I’m currently writing a personal chatbot - The first version is done!
+- 🤖️ I'm experienced with Python for data analysis and web application development.
 - 🧊 I used Spring Boot & React to develop full-stack projects
 - 🐶 I’m looking for a 2024 internship 
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
 - 🌟 I will use Github as much as possible from Sep.18.2023
+  
 
 ## {...} My Stack 💻🚀
 
