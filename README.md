@@ -17,7 +17,7 @@ Let's embark on this journey of innovation together ❤️
 - 🐶 I’m looking for a 2024 internship 
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
-- 🌟 I will use Github as much as possible from Sep.18.2023
+- 🌟 Developing the threads style web application using next.js14
   
 
 ## {...} My Stack 💻🚀
