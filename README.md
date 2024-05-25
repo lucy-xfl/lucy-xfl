@@ -11,27 +11,25 @@ What sets me apart is my unwavering drive for continuous growth and innovation. 
 
 Let's embark on this journey of innovation together ❤️
 
-- 🔭 I’m currently writing a personal chatbot - The first version is done!
+- 🐶 I’m looking for a 2024 internship and 25 ng jobs
 - 🤖️ I'm experienced with Python for data analysis and web application development.
 - 🧊 I used Spring Boot & React to develop full-stack projects
-- 🐶 I’m looking for a 2024 internship 
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
-- 🌟 Developing the threads style web application using next.js14
   
 
 ## {...} My Stack 💻🚀
 
 ```js
 {
-  Languages: ['JavaScript', 'Java', 'Python', 'C', 'C++'],
+  Languages: ['JavaScript', 'Java', 'Python', 'C#', 'C++'],
   Backend: ['NodeJs', 'Spring Boot'],
   Frontend: ['ReactJs', 'JavaScript(ES6)', 'CSS3', 'HTML5'],
   Databases: ['MongoDB', 'Sql', 'PostgreSQL', 'MySQL', 'ElasticSearch'],
   Tools: ['Docker', 'Postman', 'MongoDB Compass'],
   Cloud: ['EC2(AWS)', 'Google Cloud', 'Altas(mongoDB Cloud)'],
   Data Analysis: ['SPSS', 'Python(NumPy, Pandas, scikit-learn, Matplotlib, TensorFlow)'], 'MATLAB']
-  Other Skills: ['Unity', 'Kotlin', 'Unit testing'],
+  Other Skills: ['Unity', 'Kotlin', 'Unit testing', 'Pytest'],
   Open Source: ['Git, GitHub']
 }
 ```
