@@ -11,7 +11,7 @@ What sets me apart is my unwavering drive for continuous growth and innovation. 
 
 Let's embark on this journey of innovation together ❤️
 
-- 🐶 I’m looking for a 2024 internship and 25 ng jobs
+- 🐶 I’m looking for a 25ng job.
 - 🤖️ I'm experienced with Python for data analysis and web application development.
 - 🧊 I used Spring Boot & React to develop full-stack projects
 - 😄 Pronouns: she/her
@@ -22,7 +22,7 @@ Let's embark on this journey of innovation together ❤️
 
 ```js
 {
-  Languages: ['JavaScript', 'Java', 'Python', 'C#', 'C++'],
+  Languages: ['JavaScript', 'Java', 'Python', 'C#', 'C++', 'C-object'],
   Backend: ['NodeJs', 'Spring Boot'],
   Frontend: ['ReactJs', 'JavaScript(ES6)', 'CSS3', 'HTML5'],
   Databases: ['MongoDB', 'Sql', 'PostgreSQL', 'MySQL', 'ElasticSearch'],
