@@ -11,9 +11,8 @@ What sets me apart is my unwavering drive for continuous growth and innovation. 
 
 Let's embark on this journey of innovation together ❤️
 
-- 🐶 I’m looking for a 25ng job.
 - 🤖️ I'm experienced with Python for data analysis and web application development.
-- 🧊 I used Spring Boot & React to develop full-stack projects
+- 🧊 I used Spring Boot & React to develop most full-stack projects
 - 😄 Pronouns: she/her
 - 💎 Fun fact: I am a night owl and a dog person!
   
